@@ -7,3 +7,4 @@ Let me start by firstly introducing myself. I am Shambhavi a 24 year old teachie
 - cooking is okay okay
 - recently working on my basics
 
+theme: Minima
